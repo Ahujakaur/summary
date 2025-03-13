@@ -28,7 +28,7 @@ A production-ready FastAPI microservice that provides text summarization capabil
 
 1. Clone the repository:
    ```bash
-   git clone <url>
+   git clone https://github.com/Ahujakaur/summary.git
    cd fast_proj
    ```
 
